@@ -115,7 +115,7 @@ Hi there! I'm **Hamilton Kahonde**. I’m an IT professional and passionate YouT
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 
-[![LinkedIn](www.linkedin.com/in/hamilton-kahonde-98a8b2211)](https://linkedin.com/in/baraa-khatib-salkini)
+[![LinkedIn](www.linkedin.com/in/hamilton-kahonde-98a8b2211)]
 
 
 
