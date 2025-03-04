@@ -115,7 +115,7 @@ Hi there! I'm **Hamilton Kahonde**. I’m an IT professional and passionate YouT
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hamilton-kahonde-98a8b2211)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hamilton-kahonde-98a8b2211/)
 
 
 
